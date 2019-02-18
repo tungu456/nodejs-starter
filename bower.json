@@ -1,0 +1,20 @@
+{
+  "name": "nhahehe",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Nha Migi"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tungu456/nodejs-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
